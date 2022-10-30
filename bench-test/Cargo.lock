@@ -5,15 +5,3 @@ version = 3
 [[package]]
 name = "bench-test"
 version = "0.1.0"
-
-[[package]]
-name = "hello"
-version = "0.1.0"
-
-[[package]]
-name = "panic"
-version = "0.1.0"
-
-[[package]]
-name = "rust-eden"
-version = "0.1.0"

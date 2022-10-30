@@ -1,6 +1,12 @@
+[package]
+name = "rust-eden"
+version = "0.1.0"
+edition = "2018"
+
 [workspace]
 
 members = [
     "panic",
-    "hello"
+    "hello",
+    "bench-test"
 ]
